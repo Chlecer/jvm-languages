@@ -70,5 +70,3 @@ Welcome to the whimsical journey through the history of Java versions, where eac
 - **Difference:** "Why wait years for new Java goodness?" Developers embrace the jet-set lifestyle, trying out features in "sneak peek" mode.
 
 So, from the early days of Jurassic Java to the jet-setting world of modern Java, the language has evolved, adapted, and kept developers both amused and challenged. Remember, with great Java versions come great pun opportunities! 🚀🍕🔢
-
-Feel free to copy and paste this delightful journey through Java versions into your README.md file. Enjoy the read!

@@ -1,6 +1,6 @@
 # Learning Kotlin
 
-If you're an experienced Java programmer looking to learn Kotlin, you're on the right path. Kotlin is a modern programming language that offers several advantages over Java while maintaining full compatibility with existing Java code. Here are some key points to consider when learning Kotlin:
+Kotlin is a modern programming language that offers several advantages over Java while maintaining full compatibility with existing Java code. Here are some key points to consider when learning Kotlin:
 
 ## 1. Concise Syntax
 

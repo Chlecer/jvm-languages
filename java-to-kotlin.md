@@ -6,13 +6,13 @@ Kotlin is a modern programming language that offers several advantages over Java
 
 Kotlin provides a more concise and expressive syntax compared to Java, eliminating a significant amount of boilerplate code. Let's see an example of declaring properties in classes:
 
-\```kotlin
+```kotlin
 // In Kotlin
 class Person {
     var name: String = ""
     var age: Int = 0
 }
-\```
+```
 
 ## 2. Type Safety
 

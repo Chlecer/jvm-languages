@@ -73,7 +73,7 @@ fun main() = runBlocking {
 
 ## 7. Interoperability
 
-Remember that you can call Java code from Kotlin and vice versa, enabling to gradually introduce Kotlin in existing Java projects.
+We can call Java code from Kotlin and vice versa, enabling to gradually introduce Kotlin into existing Java projects for example.
 
 ## 8. Tools and IDEs
 
@@ -82,5 +82,4 @@ Use an IDE like IntelliJ IDEA, which offers excellent Kotlin support. If you're 
 ## 9. Community and Learning Resources
 
 There's an active Kotlin developer community with abundant learning resources, including official documentation, tutorials, and online courses.
-
 

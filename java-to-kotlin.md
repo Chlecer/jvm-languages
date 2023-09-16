@@ -18,47 +18,47 @@ class Person {
 
 Kotlin is known for its strong type safety, which helps catch many compile-time errors. Consider the following example:
 
-\```kotlin
+```kotlin
 // In Kotlin
 val x: Int = "Hello" // This will result in a compile-time error
-\```
+```
 
 ## 3. Null Safety
 
 Kotlin introduces a robust null safety system. Here's how you handle nullable values:
 
-\```kotlin
+```kotlin
 // In Kotlin
 val name: String? = possiblyNullableName
 val length: Int = name?.length ?: 0
-\```
+```
 
 ## 4. Extension Functions
 
 Kotlin allows you to add new functions to existing classes without inheritance through extension functions. For instance:
 
-\```kotlin
+```kotlin
 // In Kotlin
 fun String.toTitleCase(): String {
     return this.split(" ").joinToString(" ") { it.capitalize() }
 }
-\```
+```
 
 ## 5. Lambda Expressions
 
 Kotlin simplifies working with lambda expressions and higher-order functions. Consider this example of filtering a list of numbers:
 
-\```kotlin
+```kotlin
 // In Kotlin
 val numbers = listOf(1, 2, 3, 4, 5)
 val evenNumbers = numbers.filter { it % 2 == 0 }
-\```
+```
 
 ## 6. Coroutines
 
 Kotlin provides native support for coroutines, making it efficient to handle concurrency and asynchronous tasks. Here's a basic example:
 
-\```kotlin
+```kotlin
 // In Kotlin
 import kotlinx.coroutines.*
 
@@ -69,7 +69,7 @@ fun main() = runBlocking {
     }
     job.join()
 }
-\```
+```
 
 ## 7. Interoperability
 
